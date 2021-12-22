@@ -25,8 +25,8 @@ INSTALLED_APPS = [
 
 ### Usage
 
-No seu html adicione o `js` como no exemplo abaixo:
-Nesse exeplo `yourapp/form.html` é um arquivo referente ao template do seu form, isso garante mais clareza ao seu código.
+No seu html adicione o `js` como no exemplo abaixo.  
+Nesse exeplo `yourapp/form.html` é um arquivo referente ao template do seu form, isso garante mais clareza ao seu código:
 
 ```html
 <!-- yourapp/form.html -->
