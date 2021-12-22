@@ -1,0 +1,8 @@
+global-exclude *.py[cod]
+prune tests
+prune __pycache__
+include LICENSE
+include README.md
+recursive-include coral *.js
+exclude .editorconfig
+include pyproject.toml
