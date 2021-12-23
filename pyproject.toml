@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "coral-formsets"
-version = "0.1.1"
+version = "0.1.2"
 description = "Coral formsets"
 authors = ["Cleiton Lima <cleiton.limapin@gmail.com>"]
 license = "GPL-3.0-only"
