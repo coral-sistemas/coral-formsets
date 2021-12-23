@@ -216,5 +216,8 @@
     }
   }
 
+  if (!window.coral) {
+    window.coral = {};
+  }
   window.coral.FormSet = FormSet;
 }
